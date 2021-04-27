@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Anurag_Ignore/_Scene/MenuScene.unity
     guid: 9f563bccc8904b944a950a5c40c52485
+  - enabled: 1
+    path: Assets/Anurag_Ignore/_Scene/PlayGame.unity
+    guid: 9ae56fb4227ed094389c26028ec00ac2
   m_configObjects: {}
